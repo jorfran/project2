@@ -1,0 +1,8 @@
+JORGE DE FRANÇA : 
+               testando o aprendizado de branch criação é o envio para o Git Hub
+			   no terminal git checkout -b feature-2
+			   abrir a pasta learning-git
+			   criar arquivo utils.js
+			   notpad ++ Arquivo abrir procurar o local de utils.js
+			                     inserir texto e salvar
+			   no terminal	git status exibe as branch do repositório				 
