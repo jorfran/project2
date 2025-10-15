@@ -1,0 +1,5 @@
+Jorge de França :
+                Aprendizagem de comandos para levar o arquivo criada e comitado para o GitHub.
+				Essa é uma branch do meu repositório main , que vou enviar para o repositório origin.
+				Fazendo o merge diretamente no origin
+ 
